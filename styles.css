@@ -1,0 +1,281 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgba(80, 80, 80, 0.089);
+    padding: 0px;
+    display:flex;
+    box-shadow: 0 0 10px .1rem rgb(121, 121, 121);
+}
+
+.margine-stanga{
+    margin-left: 20px;
+    box-shadow: 30px;
+    border: 2px solid #7c7c7c3b;
+}
+
+.margine-dreapta{
+    margin-right: 20px;
+    box-shadow: 30px;
+    border-right: 2px solid #7c7c7c3b;
+    background-color: rgb(250,250,250);
+}
+
+.nume {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(77,77,77);
+    font-size: 40px;
+}
+
+.limbi {
+    margin-top: 130px;
+    font-size: 20px;
+    position: relative;
+    left: -20px;
+}
+
+.prenume {
+    margin-top: 20px;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(77,77,77);
+    margin-bottom: 0px;
+}
+
+.underline {
+    color: rgb(227,227,225);
+    margin: 0px;
+    position: relative;
+    top: -40px;
+}
+
+.sef {
+    margin: 0px;
+    color: rgb(77,77,77);
+    position: relative;
+    top: -35px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.lan {
+    margin-top: 9px;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 20px;
+    margin: 0px;
+}
+
+.date {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.glob {
+    margin-left: auto;
+}
+
+.casa,
+.email,
+.sageata {
+    font-size: 20px;
+    color: rgb(242, 243, 244);
+    background-color: rgb(93,108,177);
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.p-date {
+    line-height: 30px;
+    position: relative;
+    left: 25px;
+}
+
+.nivel-limbi {
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.progres {
+    font-size:1rem;
+}
+
+.skilluri {
+    margin-top: 40px;
+}
+
+.a {
+    text-align: center;
+    background-color: rgb(248,246,247);
+    border-bottom: 2px solid #7c7c7c3b;
+}
+
+
+
+img {
+    margin-top:30px;
+    margin-left: 10px;
+    border: 10px solid rgb(93,108,177);
+    border-radius: 50%;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+}
+
+.info {
+    background-color: rgb(93,108,177);
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 30px;
+    border: 3px solid white;
+    box-shadow: 0.1px 0.1px 0px 3px #5D6CB1;
+
+}
+
+.abtme {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.b {
+    margin-top: 12px;
+    font-weight: bold;
+    font-size: 25px;
+    position: relative;
+    left: 30px;
+}
+
+.linie-sus-jos {
+    margin-top: 80px;
+    margin-bottom: 70px;
+}
+
+.vlang {
+    border-left: 7px solid rgb(93,108,177);
+    height: 80px;
+    position: relative;
+    top: -15px;
+}
+
+.vmijloc1 {
+    border-left: 2px solid rgba(136, 136, 136, 0.692);
+    height: 25px;
+    margin-top: 50px;
+    line-height: 20px;
+    width: auto;
+    padding: 0;
+}
+
+.veducatie {
+    margin-left: 35px;
+    margin-top: 25px;
+    border-left: 5px solid rgb(93,108,177);
+    height: 50px;
+    width: auto;
+    padding: 0;
+}
+
+.vmijloc2 {
+    border-right: 2px solid rgba(136, 136, 136, 0.692);
+    height: 25px;
+    margin-top: 20px;
+    line-height: 20px;
+    width: auto;
+    padding: 0;
+}
+
+.m {
+    padding-top: 50px;
+}
+
+.cerc {
+    margin-left: 18px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: white;
+    border-radius: 50%;
+    background-color: rgb(93,108,177);
+    box-shadow: 0.1px 0.1px 0px 3px #5D6CB1;
+}
+
+.dot {
+    margin-left: 16px;
+    margin-top: 50px;
+    height: 20px;
+    width: 20px;
+    background-color: #5D6CB1;
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0.1px 0.1px 0px 4px #5D6CB1;
+    border: 6px solid white;
+}
+
+.dot2 {
+    margin-left: 16px;
+    margin-top: 20px;
+    height: 20px;
+    width: 20px;
+    background-color: #5D6CB1;
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0.1px 0.1px 0px 4px #5D6CB1;
+    border: 6px solid white;
+    position: relative;
+    top: -20px;
+}
+
+.educatie {
+    margin-top: 50px;
+    line-height: 20px;
+    font-size: 14px;
+    position:relative;
+    left: 10px;
+}
+
+.educatie2 {
+    margin-top: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    position:relative;
+    left: 10px;
+}
+
+.scris {
+    margin-left: 39px;
+    margin-top: 15px;
+    position: relative;
+    top: -60px;
+}
+
+.exp {
+    font-weight: bold;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.infomic {
+    background-color: rgb(93,108,177);
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 20px;
+    border: 3px solid white;
+    box-shadow: 0.1px 0.1px 0px 3px #5D6CB1;
+}
+
+.chenar {
+    border: 1px solid grey;
+}
+
+.trei-date {
+    margin-top: 70px;
+}
+
+.spatiere {
+    padding-top: 30px;
+    padding-left: 20px;
+}
